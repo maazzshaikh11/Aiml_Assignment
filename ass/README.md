@@ -1,6 +1,3 @@
-# QUICK START GUIDE
-# ==================
-
 ## 1. Installation
 
 ```bash
