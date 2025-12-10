@@ -56,11 +56,11 @@ Personal Identifiable Information (PII).
 ## Pipeline Performance
 
 ### Preprocessing
-- ✓ Grayscale conversion
-- ✓ Contrast enhancement (factor: 1.8)
-- ✓ Sharpness enhancement (factor: 1.5)
-- ✓ Noise reduction
-- ✓ Deskew detection (when enabled)
+- Grayscale conversion
+- Contrast enhancement (factor: 1.8)
+- Sharpness enhancement (factor: 1.5)
+- Noise reduction
+- Deskew detection (when enabled)
 
 ### OCR Performance
 - Engine: Tesseract OCR (or mock for demonstration)
