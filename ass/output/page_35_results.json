@@ -1,0 +1,19 @@
+{
+  "image_path": "samples/page_35.jpg",
+  "original_size": [
+    3718,
+    2638
+  ],
+  "extracted_text": "OF MEDICAL SCIENCES & INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL\nANUSAND SIKSHA ‘O' ANUSANDHAN (@)\nSIKSHA ‘O’ ANUSANDHAN\n= (DEEMED TO BE UNIVERSITY)\n| (DEEMED TO BE UNIVERSITY) K-8. Kalinga N Bhub\n| Kalinga Nagar, Bhubaneswar » Nagar, Bhubaneswar\n(8\n| Patient Name: AQQ! Bay. Sex: Patient Name: Age: Sex:\n2 a 4 _\nPONG: UHIDNo: Bed |\nD Use OF\ncal | | &\n| | THE, SUBSTANCE |\n—\n| d Be: wt 0% TD\na\n| | Nore i Be — 4 “ee IV BD |\n4a PR - Tq (Lamp)\nye | back -\n° » Ty Bro luc) viol 0D\n| .\n| ay Cap Hp 4 BD\nw | ‘od of we £) Cap +\noe Syp\nyw | ~ | 4)\n| CH aid\n( iy\n| | 4 |\n| =\n| |\n|\n| R °\n| 4 Hoavi j\n| (Contd.)\n|",
+  "pii_summary": {
+    "medical_id": 1,
+    "total": 1
+  },
+  "redacted_text": "OF MEDICAL SCIENCES & INSTITUTE OF MEDICAL SCIENCES & SUM HOSPITAL\nANUSAND SIKSHA ‘O' ANUSANDHAN (@)\nSIKSHA ‘O’ ANUSANDHAN\n= (DEEMED TO BE UNIVERSITY)\n| (DEEMED TO BE UNIVERSITY) K-8. Kalinga N Bhub\n| Kalinga Nagar, Bhubaneswar » Nagar, Bhubaneswar\n(8\n| Patient Name: AQQ! Bay. Sex: Patient Name: Age: Sex:\n2 a 4 _\nPONG: XXXXXXXXXXX |\nD Use OF\ncal | | &\n| | THE, SUBSTANCE |\n—\n| d Be: wt 0% TD\na\n| | Nore i Be — 4 “ee IV BD |\n4a PR - Tq (Lamp)\nye | back -\n° » Ty Bro luc) viol 0D\n| .\n| ay Cap Hp 4 BD\nw | ‘od of we £) Cap +\noe Syp\nyw | ~ | 4)\n| CH aid\n( iy\n| | 4 |\n| =\n| |\n|\n| R °\n| 4 Hoavi j\n| (Contd.)\n|",
+  "timestamp": "2025-12-10T15:33:57.349689",
+  "pii_details": {
+    "medical_id": [
+      "UHIDNo: Bed"
+    ]
+  }
+}
