@@ -4,7 +4,6 @@
 This pipeline processes handwritten medical documents to extract text and identify
 Personal Identifiable Information (PII).
 
-## Date: December 09, 2025
 
 ## Test Documents Processed
 1. page_30.jpg - Medical Progress Report
