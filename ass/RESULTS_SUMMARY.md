@@ -1,5 +1,4 @@
 # OCR + PII EXTRACTION PIPELINE - RESULTS SUMMARY
-# =================================================
 
 ## Project Overview
 This pipeline processes handwritten medical documents to extract text and identify
@@ -34,7 +33,7 @@ Personal Identifiable Information (PII).
 - Date: 11/4/25
 - Ward: ward-1
 
-**Processing Status**: ✓ Complete
+**Processing Status**:Complete
 
 ---
 
@@ -42,7 +41,7 @@ Personal Identifiable Information (PII).
 - **Image Size**: 1522x1080 pixels
 - **Characters Extracted**: 533 characters (cleaned)
 - **PII Instances Found**: 8
-- **Processing Status**: ✓ Complete
+- **Processing Status**:Complete
 
 ---
 
@@ -50,7 +49,7 @@ Personal Identifiable Information (PII).
 - **Image Size**: 1751x1080 pixels
 - **Characters Extracted**: 533 characters (cleaned)
 - **PII Instances Found**: 8
-- **Processing Status**: ✓ Complete
+- **Processing Status**:Complete
 
 ---
 
