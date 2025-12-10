@@ -1,5 +1,4 @@
 # OCR + PII Extraction Pipeline - Dependencies
-# ==============================================
 
 # Core dependencies
 Pillow>=10.0.0                  # Image processing and manipulation
@@ -9,26 +8,6 @@ pytesseract>=0.3.10             # Python wrapper for Tesseract OCR
 # Optional but recommended
 opencv-python>=4.8.0            # Advanced image processing (optional)
 pdf2image>=1.16.3               # PDF support (optional)
-
-# System Requirements:
-# ====================
-# 1. Tesseract-OCR must be installed on your system
-#
-#    For Ubuntu/Debian:
-#      sudo apt-get update
-#      sudo apt-get install tesseract-ocr
-#      sudo apt-get install libtesseract-dev
-#
-#    For macOS (using Homebrew):
-#      brew install tesseract
-#
-#    For Windows:
-#      Download installer from: https://github.com/UB-Mannheim/tesseract/wiki
-#      Add Tesseract to system PATH
-#
-# 2. For better handwritten text recognition, install additional language data:
-#      sudo apt-get install tesseract-ocr-eng
-#      sudo apt-get install tesseract-ocr-script-latin
 
 # Installation Instructions:
 # =========================
@@ -42,5 +21,4 @@ pdf2image>=1.16.3               # PDF support (optional)
 #    python ocr_pii_pipeline.py
 
 # Python Version:
-# ==============
 # Requires Python 3.8 or higher
